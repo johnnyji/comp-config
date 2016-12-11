@@ -1,10 +1,11 @@
 ## Comp Setup
 
-Just in-case my MacBook decides to crash on me, or there's some hardware defect.
+Just incase my MacBook decides to crash on me, or there's some hardware defect.
 
 
 ### Dependencies Required
 
+- xcode
 - Node
 - NPM
 - Elixir
@@ -12,3 +13,6 @@ Just in-case my MacBook decides to crash on me, or there's some hardware defect.
 - ImageMagick
 - Exponent.js
 - Watchman
+- Postgres App
+- pgAdmin
+- Exponent
